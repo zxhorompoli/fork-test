@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pcf-intro-service.iml" filepath="$PROJECT_DIR$/pcf-intro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pcf-intro-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pcf-intro-service_main.iml" group="pcf-intro-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pcf-intro-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pcf-intro-service_test.iml" group="pcf-intro-service" />
+    </modules>
+  </component>
+</project>
